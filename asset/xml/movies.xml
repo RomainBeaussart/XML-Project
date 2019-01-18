@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone='yes'?>
+<movies>
+
+    <!-- The Martian -->
+
+    <movie title="The Martian" id="1">
+        <description>
+            During a manned mission to Mars, Astronaut Mark Watney (Matt Damon) is presumed dead after a fierce storm and left behind by his crew.
+        </description>
+        <url_image>http://s3.foxfilm.com/foxmovies/production/films/104/images/gallery/martian-gallery3-gallery-image.jpg</url_image>
+        <release_date day="21" month="Oct" year="2015" />
+        <actors>
+            <actor>Matt Damon</actor>
+        </actors>
+        <score>8.0</score>
+        <projections>
+            <theater name="Chinese Theater">
+                <hour>10h00</hour>
+                <hour>15h30</hour>
+                <hour>20h15</hour>
+            </theater>
+        </projections>
+    </movie>
+
+    <!-- Inception -->
+
+    <movie title="Inception" id="2">
+        <description>
+            A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+        </description>
+        <url_image>https://wallpapercave.com/wp/msi4htu.jpg</url_image>
+        <release_date day="21" month="Oct" year="2015" />
+        <actors>
+            <actor>Matt Damon</actor>
+        </actors>
+        <score>8.8</score>
+        <projections>
+            <theater name="Chinese Theater">
+                <hour>10h00</hour>
+                <hour>15h30</hour>
+                <hour>20h15</hour>
+            </theater>
+        </projections>
+    </movie>
+
+    <!-- Harry Potter -->
+
+    <movie title="Harry Potter" id="3">
+        <description>
+            Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic.
+        </description>
+        <url_image>https://wallpapertag.com/wallpaper/full/7/3/a/11774-harry-potter-wallpaper-3840x2160-for-tablet.jpg</url_image>
+        <release_date day="21" month="Oct" year="2015" />
+        <actors>
+            <actor>Matt Damon</actor>
+        </actors>
+        <score>7.7</score>
+        <projections>
+            <theater name="Chinese Theater">
+                <hour>10h00</hour>
+                <hour>15h30</hour>
+                <hour>20h15</hour>
+            </theater>
+        </projections>
+    </movie>
+</movies>

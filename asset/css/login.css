@@ -1,0 +1,61 @@
+body {
+    background: #EAEAEA;
+}
+
+.container {
+    height: 100%;
+    padding-top: 20%
+}
+
+.container .camera {
+    background-image: url("/img/camera.png");
+    float: left;
+    width: 40%;
+    height: 250px;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: left;
+    border-radius: 5px;
+}
+
+.container form {
+    margin: 0 auto;
+    background: #FFF;
+    width: 40%;
+    height: 250px;
+    border-radius: 5px;
+    margin-top
+}
+
+.container form input[type='text'],
+.container form input[type='password'] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #666;
+}
+
+.container form input[type='text'] {
+    margin-top: 20px;
+}
+
+.container form input[type='text']:focus,
+.container form input[type='password']:focus {
+    outline: none;
+}
+
+.container form input[type='submit'] {
+    width: 50%;
+    padding: 12px 20px;
+    background: #555;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    transition: 0.3s;
+}
+
+.container form input[type="submit"]:hover {
+    background: #222;
+}
